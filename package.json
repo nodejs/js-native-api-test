@@ -1,0 +1,23 @@
+{
+  "name": "@nodejs/napi-test-suite",
+  "version": "10.10.0",
+  "description": "N-API implementation conformance test suite",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodejs/napi-test-suite.git"
+  },
+  "keywords": [
+    "napi",
+    "nodejs"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nodejs/napi-test-suite/issues"
+  },
+  "homepage": "https://github.com/nodejs/napi-test-suite#readme"
+}
